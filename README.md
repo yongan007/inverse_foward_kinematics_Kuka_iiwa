@@ -8,4 +8,4 @@ KUKA IIWA : Forward and inverse kinematic solutions
 - inv_kin.m     a function for inverse kinematics
 - repord.pdf
 
-Some fuctions script above is writen with Robotics toolbox(Peter Corke). 
+Some fuction scripts above are writen with Robotics toolbox(Peter Corke). 
