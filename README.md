@@ -1,5 +1,5 @@
 # inverse_foward_kinematics_Kuka_iiwa
-KUKA IIWA : Forward and inverse kinematics solution
+KUKA IIWA : Forward and inverse kinematic solutions
 
 - HW1.m a script file is for solving solutions (forward and inverse kinematics)
 - Tr.m          a function for Transformation matrices
